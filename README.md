@@ -1,10 +1,6 @@
 ##  Task. Minimize Sphere function
 
-   Implement a program to minimize the Sphere function 
-
-    f(x)=∑i=1nxi2f(x)=∑i=1nxi2 
-
-   using three different approaches to local optimization:
+   Implement a program to minimize the Sphere function using three different approaches to local optimization:
 
 -   Hill Climbing algorithm
 -   Random Local Search
